@@ -1,0 +1,2 @@
+# Sandboxed virtual OS environment for Android
+Abstergo OS is an Android app that simulates a desktop operating system inside your phone. It lets you **clone social apps** (Instagram, WhatsApp, Telegram, X, Facebook, YouTube, Reddit, TikTok, Discord, Spotify, and 30+ more) into isolated sandboxed WebViews. Sign into any app, use it freely, then **wipe everything clean** — cookies, sessions, cache, localStorage — with a single tap. Your real device stays untouched.
