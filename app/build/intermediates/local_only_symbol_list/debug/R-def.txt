@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+drawable abstergo_animus
+drawable abstergo_logo_blue
+drawable abstergo_logo_dark
+drawable abstergo_wallpaper_1
+drawable abstergo_wallpaper_2
+drawable abstergo_wallpaper_3
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.AbstergoOS

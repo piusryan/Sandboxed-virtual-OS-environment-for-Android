@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.abstergo.app-merged_res-60:/drawable-nodpi_abstergo_wallpaper_3.png.flat",
+        "source": "com.abstergo.app-main-62:/drawable-nodpi/abstergo_wallpaper_3.png"
+    },
+    {
+        "merged": "com.abstergo.app-merged_res-60:/drawable-nodpi_abstergo_animus.png.flat",
+        "source": "com.abstergo.app-main-62:/drawable-nodpi/abstergo_animus.png"
+    },
+    {
+        "merged": "com.abstergo.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.abstergo.app-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.abstergo.app-merged_res-60:/drawable-nodpi_abstergo_wallpaper_1.jpg.flat",
+        "source": "com.abstergo.app-main-62:/drawable-nodpi/abstergo_wallpaper_1.jpg"
+    },
+    {
+        "merged": "com.abstergo.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.abstergo.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.abstergo.app-merged_res-60:/drawable-nodpi_abstergo_logo_dark.jpg.flat",
+        "source": "com.abstergo.app-main-62:/drawable-nodpi/abstergo_logo_dark.jpg"
+    },
+    {
+        "merged": "com.abstergo.app-merged_res-60:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.abstergo.app-main-62:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.abstergo.app-merged_res-60:/drawable-nodpi_abstergo_wallpaper_2.jpg.flat",
+        "source": "com.abstergo.app-main-62:/drawable-nodpi/abstergo_wallpaper_2.jpg"
+    },
+    {
+        "merged": "com.abstergo.app-merged_res-60:/drawable-nodpi_abstergo_logo_blue.jpg.flat",
+        "source": "com.abstergo.app-main-62:/drawable-nodpi/abstergo_logo_blue.jpg"
+    }
+]
